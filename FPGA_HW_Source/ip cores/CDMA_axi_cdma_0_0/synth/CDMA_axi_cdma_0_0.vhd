@@ -351,6 +351,6 @@ BEGIN
       m_axi_sg_rdata => STD_LOGIC_VECTOR(TO_UNSIGNED(0, 32)),
       m_axi_sg_rresp => STD_LOGIC_VECTOR(TO_UNSIGNED(0, 2)),
       m_axi_sg_rlast => '0',
-      cdma_tvect_out => cdma_tvect_out
+       cdma_tvect_out => cdma_tvect_out
     );
 END CDMA_axi_cdma_0_0_arch;

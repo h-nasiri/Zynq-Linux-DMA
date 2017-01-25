@@ -60,10 +60,10 @@ module CDMA_wrapper
   wire DDR_ck_p;
   wire DDR_cke;
   wire DDR_cs_n;
-  wire [3:0]DDR_dm;
-  wire [31:0]DDR_dq;
-  wire [3:0]DDR_dqs_n;
-  wire [3:0]DDR_dqs_p;
+  wire [3:0] DDR_dm;
+  wire [31:0] DDR_dq;
+  wire [3:0] DDR_dqs_n;
+  wire [3:0] DDR_dqs_p;
   wire DDR_odt;
   wire DDR_ras_n;
   wire DDR_reset_n;
